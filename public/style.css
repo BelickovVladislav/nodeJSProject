@@ -1,0 +1,24 @@
+form {
+    display: inline-block;
+}
+input[type = submit]{
+    float:left
+}
+.form-group {
+    text-align: center;
+    padding-bottom: 25px;
+}
+#todo {
+    margin: auto;
+    width: 300px;
+}
+li{
+    height: 30px;
+}
+button.close {
+    float: none;
+    margin-right: 10px; 
+    text-decoration: none;
+    color: black;
+}
+
